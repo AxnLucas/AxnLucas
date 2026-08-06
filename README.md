@@ -58,7 +58,7 @@ de aplicações web, APIs REST e serviços internos.
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=AxnLucas&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true"
+    src="https://github-stats-extended-frontend-sigma.vercel.app/api?username=AxnLucas&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub"
   >
   <img
