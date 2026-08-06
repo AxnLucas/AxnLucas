@@ -58,13 +58,13 @@ de aplicações web, APIs REST e serviços internos.
 <p align="center">
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api?username=AxnLucas&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&include_all_commits=true"
+    src="./profile/stats.svg"
     alt="Estatísticas do GitHub"
   >
   <img
     height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=AxnLucas&layout=compact&langs_count=8&theme=tokyonight&locale=pt-br&hide_border=true"
-    alt="Linguagens mais utilizadas"
+    src="./profile/top-langs.svg"
+    alt="Linguagens mais usadas"
   >
 </p>
 
